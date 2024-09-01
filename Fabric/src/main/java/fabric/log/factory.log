@@ -1,0 +1,138 @@
+апр. 29, 2024 1:20:07 PM fabric.Main main
+INFO: Это сообщение будет записано в файл.
+апр. 29, 2024 1:20:08 PM fabric.Dealer run
+INFO: Number 2 Auto cdbef649-97c8-4876-ae7c-5cc85e9267ac Body 568de2b4-1b4f-49fd-abae-a93deb778e30 Motor ca76dd75-13e9-49e8-af94-72f2733b99a3 Accessory 280c9a8c-c6aa-4fd0-ba31-9adc33ae4709
+апр. 29, 2024 1:20:08 PM fabric.Dealer run
+INFO: Number 1 Auto 64a7b6dd-e64a-4cd4-b328-26f33e9b6793 Body 1dbd2d86-970f-4ed0-a4b7-7777f49ca22f Motor 78a4a535-aba2-475e-8b54-d1be31717e20 Accessory ad8779f2-b142-49cd-bf77-b1b6536b8dec
+апр. 29, 2024 1:20:08 PM fabric.Dealer run
+INFO: Number 3 Auto be590872-28c8-43ff-8f21-15fba46e2c18 Body 2170ccbf-48e9-42fa-b370-ac9175eeacd7 Motor 507dfd1f-4bbe-4fce-a475-8e6555f5984a Accessory 26e36169-2e9b-446c-8df9-6646000fb89d
+апр. 29, 2024 1:20:09 PM fabric.Dealer run
+INFO: Number 4 Auto b5639899-96bc-46d0-a346-eee8b7aa2007 Body 595090a4-a855-45ce-8637-ded1270ba15f Motor e81049ea-9ffd-404b-a776-9c27b36c6ffc Accessory 4a4eb078-655e-40d7-97cc-8b5e80fad0aa
+апр. 29, 2024 1:20:09 PM fabric.Dealer run
+INFO: Number 5 Auto 6f2442fa-36e4-42c2-8592-2c58d65df5cc Body 77b9ed0f-fa00-415e-8c21-5ced1c5fd90b Motor 23981ffd-3c42-4242-98fc-c5579d2ed716 Accessory e9cb9bd6-4966-4a08-b65c-6ab7f9527178
+апр. 29, 2024 1:20:09 PM fabric.Dealer run
+INFO: Number 6 Auto 4f525b27-9163-4e57-88f3-4ef25be14435 Body a5aa5546-48ed-4045-bdde-eb8ff843c1ad Motor 15f5d2bd-4577-4f20-b1e1-dc2d125e554f Accessory d184afbb-d5bb-41a0-b186-312933442a2b
+апр. 29, 2024 1:20:10 PM fabric.Dealer run
+INFO: Number 7 Auto 1ae7540b-0335-47f1-ae0b-3a6b45f4b5e9 Body 13fe9c2b-6447-4792-a7da-562817a2ecee Motor 437789c0-31bd-4303-af6e-d5f136c0ca2b Accessory 583c2507-5ad4-468d-8efc-3480c0af8c2d
+апр. 29, 2024 1:20:10 PM fabric.Dealer run
+INFO: Number 8 Auto 2ac4bc8a-16f3-422c-b515-45a7d26173e3 Body b786656a-39cb-4f32-b84a-73002e5949c2 Motor 1a4a3246-bdc9-42dd-b411-2b0427e1d51b Accessory 7f0a9fd9-2215-4e79-be5b-c6f3949c55bd
+апр. 29, 2024 1:20:10 PM fabric.Dealer run
+INFO: Number 9 Auto f170796e-7352-4a2e-b42e-26ef5f2d295d Body 1d6dd68b-1b7c-4443-ade0-9be406afb678 Motor e6fb068b-593c-4101-964d-1049afbed2fd Accessory 36a3d241-949f-450a-b9f3-b0b89474de39
+апр. 29, 2024 1:20:11 PM fabric.Dealer run
+INFO: Number 10 Auto 3cf2ce07-cb92-4b78-bd30-a9c60cd40ead Body 7ada9477-b723-4433-963d-3a96eb36fbd0 Motor 503a7640-a58c-4488-974e-717b32cdf90f Accessory 106bc935-97b1-4406-b0bd-097389ead45e
+апр. 29, 2024 1:20:11 PM fabric.Dealer run
+INFO: Number 11 Auto 726f07d0-2cba-4cb0-a998-656356fbd5bb Body e4ff8537-738c-4c77-bb4b-25ce47405d6b Motor 8206ea0b-e4da-4e3a-af4b-faebc9a4718a Accessory 3943ce83-d696-4d8b-ba15-42b0ede9a1a4
+апр. 29, 2024 1:20:11 PM fabric.Dealer run
+INFO: Number 12 Auto 252e44b3-7093-482b-bb50-6f925d04dbbf Body 27a3cd42-f584-4d25-aa7b-fb922aec2c9e Motor 21158a0a-6f4e-4a4b-9b8f-44901de80028 Accessory 57662c54-8ae5-47dc-a14b-2c123d7ede48
+апр. 29, 2024 1:20:12 PM fabric.Dealer run
+INFO: Number 13 Auto adee6cdc-fdbe-4ddf-b1b0-8d03a5b43632 Body e18ced76-7c18-4fe3-b045-03bc8ea2b9b6 Motor c64df962-e1be-480e-971c-8b7f3f7aec75 Accessory d327d047-94a3-4f89-8047-4248b27cdddc
+апр. 29, 2024 1:20:12 PM fabric.Dealer run
+INFO: Number 14 Auto db1df3fc-ad81-4a0a-b1c0-d83e97799809 Body 70390173-09b4-4d7e-8996-7c43daa52e02 Motor 951b538d-d2b2-45b4-a38c-5bb8cf87ceae Accessory f9cf92a4-c464-4af6-a983-2341a479bf67
+апр. 29, 2024 1:20:12 PM fabric.Dealer run
+INFO: Number 15 Auto 27441cfc-8d4b-4c80-bda3-1db0d6f85a98 Body 800b29e4-fa8e-4a29-90a2-ee4f3e592aa4 Motor 8ef515ed-ff85-4db7-add6-b3334472e985 Accessory 8fd189a5-bb3a-45e7-9d3f-fd42db5bd4ea
+апр. 29, 2024 1:20:13 PM fabric.Dealer run
+INFO: Number 16 Auto e511dc8f-d744-41a3-b1ae-9bd43f671d1e Body f66cf471-3ce4-41c9-ad3e-b9ee246ec9d2 Motor 377d219f-7247-48c7-86b3-087abbf549e0 Accessory 1e7bdeb9-2dd3-4a34-8854-9cb92fed2adc
+апр. 29, 2024 1:20:13 PM fabric.Dealer run
+INFO: Number 17 Auto 8d743ee6-cf90-411d-a16c-1d3f52126e37 Body e13f1fb1-628b-464c-a5e3-abafcf931a6c Motor 8698056d-13a0-44d0-83cd-4172688b9825 Accessory 362a46ea-b753-4907-b03e-1bc1208e0db2
+апр. 29, 2024 1:20:13 PM fabric.Dealer run
+INFO: Number 18 Auto 3e329ecc-1b33-44d3-89e1-9d08be00f515 Body ac8ba0d5-c161-4b3e-be11-f91c1df97f63 Motor 107ff1a9-1370-461a-becc-1f5858bfbde2 Accessory 7c0ed8dc-b4c4-41a3-b930-23f38e31dfd6
+апр. 29, 2024 1:20:14 PM fabric.Dealer run
+INFO: Number 19 Auto 98aea625-dbc0-4d0c-a2c2-3f14d20ee267 Body 1dfc80aa-19a2-4790-ab74-234b88617da5 Motor 4a5b4a4b-8b73-4539-8e48-ce23345a3020 Accessory 1804154e-56fd-435f-bc4d-237f234259fa
+апр. 29, 2024 1:20:14 PM fabric.Dealer run
+INFO: Number 20 Auto 407d59b0-d97c-403f-bee6-450892550f9a Body 89c11364-d6c3-4b32-825a-2bfc90e2009c Motor 1a2434e0-81b2-46fe-9960-da49ad53d686 Accessory bf49ee89-c72d-4221-a015-3c2df13bb6f1
+апр. 29, 2024 1:20:14 PM fabric.Dealer run
+INFO: Number 21 Auto 6b02d8ff-8188-4767-af8c-56f2b21151c7 Body 9a36ef9d-056a-4c64-a634-c445010853b0 Motor 941c1192-c4a2-4754-b0b2-dd0e9793bea9 Accessory 98ffb925-f1a4-400c-ae71-ab1fce9899cd
+апр. 29, 2024 1:20:15 PM fabric.Dealer run
+INFO: Number 22 Auto e90655bd-194a-4e50-b162-a03bc6fd00cc Body 0a7b4171-3037-463e-b510-65574885bd00 Motor 46b942c0-fbc1-4a58-abc5-4ad89d2bd9f0 Accessory 7bf7205c-c649-4362-bace-1b0a99cae3fb
+апр. 29, 2024 1:20:15 PM fabric.Dealer run
+INFO: Number 23 Auto d34c0397-fabc-4c6f-bd91-fd5ca65fc920 Body a22c9b95-c71d-4744-92c2-206a71082640 Motor de332468-9b7e-4850-8eb0-89b9449ab59c Accessory a9284c44-cd38-4dfe-9c82-836d91f6696f
+апр. 29, 2024 1:20:15 PM fabric.Dealer run
+INFO: Number 24 Auto 8ccd9e1a-85f3-4576-8a32-1fdd0742c71f Body d57cccb3-43cd-4feb-b792-78a4ba903ff9 Motor da3a850e-768d-4df0-8a6c-6d0a5949e2c6 Accessory b19cd522-0805-4a46-8860-ea482721fb38
+апр. 29, 2024 1:20:16 PM fabric.Dealer run
+INFO: Number 25 Auto 387afd99-1b75-46be-8674-5dd60d440825 Body 42eb87a5-5858-4e46-abaf-ebc2bc1a798b Motor 0cf4b1a2-d371-4ae3-a030-73990110fb82 Accessory 301fcc51-e02c-4f4f-b27b-2dac9932901b
+апр. 29, 2024 1:20:16 PM fabric.Dealer run
+INFO: Number 26 Auto 59aadeeb-ce86-48c3-98ef-d195685fbf24 Body b23342c7-2c5a-4b80-a56b-eceb10edb5fb Motor 6dc633a6-53d1-462c-bfc1-c53abb88ae2e Accessory 073846f0-e083-462a-90fa-51e578a19bdf
+апр. 29, 2024 1:20:16 PM fabric.Dealer run
+INFO: Number 27 Auto 376f3a32-6d3f-402e-a444-1a7f397d4b06 Body 10e178b6-e9f0-4d2f-82fb-26816eda2c3c Motor 4e244c2f-5ae2-4f83-9d07-ec987d7ae140 Accessory e9f89b71-a390-40f4-9ebe-7b307c3ea0de
+апр. 29, 2024 1:20:17 PM fabric.Dealer run
+INFO: Number 28 Auto 87ccd323-bd85-45a1-b5e6-f81090dfc60a Body 0ee80463-3585-44b0-aea5-eef3276032e2 Motor 0bf06534-576f-44a0-ab47-ec3e64c73c26 Accessory 51171515-fa73-472d-b31c-b8a12fb31358
+апр. 29, 2024 1:20:17 PM fabric.Dealer run
+INFO: Number 29 Auto e60b6196-3b95-43ba-9bc7-3a56760db219 Body 13bfc1da-c9fb-43ab-ab5d-f82fd580dc14 Motor 9357a0c9-3d76-46b5-8d15-1b0cfde160fb Accessory bc274a4c-45d6-4066-a814-8fce2deb8db9
+апр. 29, 2024 1:20:17 PM fabric.Dealer run
+INFO: Number 30 Auto 6be9cf0f-74de-43a9-8cdd-b9409fe8386a Body 12e7bbfd-5923-4e97-9121-2216bcfabf0d Motor 54608e25-b190-44ac-91ab-1cbd88fa5b1c Accessory b4e9f87a-cc2b-4c43-8088-8adb42246006
+апр. 29, 2024 1:20:18 PM fabric.Dealer run
+INFO: Number 31 Auto 474c05cd-734b-47c8-b549-0a9316dcd0fe Body f8db1bce-e2e1-4958-a6f7-009fe5fe9f1d Motor a5076e5d-d07b-4a1b-93b6-e73eb3515bd0 Accessory 45f12f50-b605-4695-a3ac-e99830f62b33
+апр. 29, 2024 1:20:18 PM fabric.Dealer run
+INFO: Number 32 Auto b24b9c75-53d5-4648-bec9-0f76b3889f26 Body 56228715-255d-4932-b330-6a3dfcdd57e3 Motor badae42c-4b04-4c52-8a52-f4f63f98bc86 Accessory 2dd5c035-1879-479d-b8c1-7113f1c858c2
+апр. 29, 2024 1:20:18 PM fabric.Dealer run
+INFO: Number 33 Auto 331fa1d5-81d8-4b9b-aedf-3467e675cd54 Body 4aaa391a-f3d1-4004-a82f-730fb0b0f499 Motor 9b7f3039-2b06-4f79-af59-7d436adf5ed4 Accessory 2e63e73d-23ea-4f0a-987f-d8a67601499f
+апр. 29, 2024 1:20:19 PM fabric.Dealer run
+INFO: Number 34 Auto 6324f1c4-4854-4e96-adaf-ae285bf2d232 Body c1bd3cb3-f8ce-49f3-a72e-2cda925c1f66 Motor 5d51035a-9e70-4065-8cbe-453f5ae8ea8f Accessory 82454e5b-2b8f-4b56-9703-e3877348d757
+апр. 29, 2024 1:20:19 PM fabric.Dealer run
+INFO: Number 35 Auto aef7ebe4-b581-4e2f-9152-12cd387ea885 Body 4d681e8c-1674-4103-90b5-00f4911547b5 Motor a5ebd610-921b-48b9-a50a-42015db69177 Accessory a5f03faa-b9b5-4286-876e-d28d2e04b79c
+апр. 29, 2024 1:20:19 PM fabric.Dealer run
+INFO: Number 36 Auto 0872c5ba-9f8a-4baf-b6b4-766e7918f378 Body d8aabd3c-8cd1-478b-8cdc-839f6f6966ff Motor 9071114a-bef0-436c-bc4b-c49c0dcf6b84 Accessory 68ffd468-3423-41c5-b8e4-55d8eabd7e27
+апр. 29, 2024 1:20:20 PM fabric.Dealer run
+INFO: Number 37 Auto ce23ee78-3bcd-490a-b340-40397d3d6cb1 Body 9cf639d6-d64b-40ba-8379-ddea21af7746 Motor 7308d72d-866a-495f-9646-918ab8da2f62 Accessory 463f96ed-a590-4531-ae1e-7795bc373f74
+апр. 29, 2024 1:20:20 PM fabric.Dealer run
+INFO: Number 38 Auto bfbb99b0-c7de-4c87-bb35-d0d9da304dda Body f63358d5-2aeb-4909-a25c-f9bcb5731ffc Motor c95c28a3-ad60-44f1-ac24-c3008de59314 Accessory f9ba63ce-ec9d-4505-9b63-8bbc2fde257b
+апр. 29, 2024 1:20:20 PM fabric.Dealer run
+INFO: Number 39 Auto d9d7634c-ce3c-4f1a-bdaa-31567b7d80d5 Body 10d57f56-c3fb-40f4-9a4a-926d42e3c298 Motor c11f0d45-c885-4ed1-9664-8904ae563833 Accessory cb0d9239-30d8-4002-9df4-f8a808e380ed
+апр. 29, 2024 1:20:20 PM fabric.Dealer run
+INFO: Number 40 Auto 5f6a2311-ad8c-454c-aaaf-69e1a2bac9fe Body bb189b20-4741-4460-a9d8-dfad54161262 Motor ea72964f-3a55-41fe-86e5-e3250df25193 Accessory 0ca1a353-5d14-4a6d-919c-bb1c613c98af
+апр. 29, 2024 1:20:20 PM fabric.Dealer run
+INFO: Number 41 Auto 0d7d7cd1-a871-4e6f-a500-0376853eca7f Body 3bcaccd1-8aa0-4453-bde9-08457e3e28e9 Motor 834cc866-9cf2-4502-8539-71ba858e8436 Accessory 21337098-579b-4c84-b911-103180315ee1
+апр. 29, 2024 1:20:21 PM fabric.Dealer run
+INFO: Number 42 Auto df2c85e1-bd21-4f34-b6b0-2a2e76fc2b4c Body a2f44ce9-dc92-4a56-a6f8-930ec5e3eb82 Motor 37448c99-01ac-4676-96a0-eebf6f91c96f Accessory e1c4961f-0f35-45cc-be60-e0e17ee56ee2
+апр. 29, 2024 1:20:21 PM fabric.Dealer run
+INFO: Number 43 Auto 423c6ac0-f081-4a53-959d-db5280d56ba5 Body 6a091c1b-894d-441a-a67a-95bcf2dc4706 Motor 69893b9e-e7fa-4d16-bff8-c7a016b3e47a Accessory c52dbd72-70df-4557-80c6-a432225b7bc9
+апр. 29, 2024 1:20:21 PM fabric.Dealer run
+INFO: Number 45 Auto cdd2d8ba-e758-4ff5-8957-410114ac762f Body 8d795a6a-4b8b-49c0-8f79-bd33f06ce49b Motor 9d844a95-a53b-49e3-8e3b-2c7972cf5b9d Accessory 855d217c-aac4-432e-89f9-0b1d81dcb9e3
+апр. 29, 2024 1:20:21 PM fabric.Dealer run
+INFO: Number 44 Auto 6abc6ff0-2048-4cd4-bf1e-a92299988ee3 Body c56a2441-370b-497c-aa62-66686fe38256 Motor ba203f5c-2363-48b1-8a8b-d717ceadb9b2 Accessory 91761058-ca1a-4429-86c0-57933b1452ed
+апр. 29, 2024 1:20:21 PM fabric.Dealer run
+INFO: Number 46 Auto bb5f35eb-feab-4a65-98bc-51a4267f1c3a Body 9c4e0396-136c-4a4f-9760-73729b6e7f60 Motor dc0c0b06-fb05-4c0c-aea0-813fe4b962f3 Accessory 058e1d5e-a21e-4e53-9538-15c60a4b0b43
+апр. 29, 2024 1:20:22 PM fabric.Dealer run
+INFO: Number 47 Auto 623910a5-1329-4574-83bc-8b896c67cb50 Body 06747d81-be54-40fd-8fec-fefa57cb205f Motor be265f04-4ead-482b-ade0-e6b35e404c5f Accessory 0b1309f9-4f69-4b30-8efc-bbf381b6a970
+апр. 29, 2024 1:20:22 PM fabric.Dealer run
+INFO: Number 48 Auto 7f4ba4c4-eb8f-4185-b643-850ab4bb29c1 Body 73663236-fd39-4b29-ac87-0bce44c87354 Motor 4989de02-e8c5-4226-8165-8db1b8c45af3 Accessory 53378986-cefd-4abc-bd16-67d57f628ed8
+апр. 29, 2024 1:20:22 PM fabric.Dealer run
+INFO: Number 49 Auto 09f99cd3-9115-4c49-98e3-22db211a95df Body 2a6a8fd1-8587-4e8b-aa72-d738091357dd Motor 14790053-52d3-4817-8b01-d682c6ac524d Accessory c68bf538-f09d-4001-998e-7364c3e4bede
+апр. 29, 2024 1:20:22 PM fabric.Dealer run
+INFO: Number 50 Auto 91cc0f9c-97bb-487a-b905-71a9c8c9defb Body 849e1288-be08-4440-9663-d73740289fd8 Motor c17f8691-f452-4d26-a16e-a3692c353c10 Accessory c7fa97f9-9b7d-459f-8948-3073084af4c8
+апр. 29, 2024 1:20:22 PM fabric.Dealer run
+INFO: Number 51 Auto 38ab2ed6-aae3-4096-a24d-eb5e67cd1c62 Body 6e9375eb-08c7-4a1b-80be-a7296a240232 Motor 3b620b7f-0fff-445c-876e-a40a8fb0006f Accessory 2988b8e8-7966-47e4-a521-e786d47c8a86
+апр. 29, 2024 1:20:23 PM fabric.Dealer run
+INFO: Number 53 Auto 4fa149b7-73e5-4bb2-9b7b-76258b2dddbb Body f7487f43-0cfe-4ebf-94d1-e9f698edd93d Motor 11146b41-905b-4947-89b5-efcd2ecad0c1 Accessory 0c6582c0-8b2c-452d-b1c1-66d90e7ef0fd
+апр. 29, 2024 1:20:23 PM fabric.Dealer run
+INFO: Number 52 Auto 5a9d8c85-a883-440a-bfba-b0db4496cacb Body 62c5b05b-e027-4588-8f6d-bbb820732267 Motor 71d56433-be76-480a-a064-101958684e1a Accessory 95586c74-5189-47a0-bb59-3f1f24fb4d92
+апр. 29, 2024 1:20:23 PM fabric.Dealer run
+INFO: Number 54 Auto 15816387-f6f7-4bde-ac66-e43ac9d4505d Body 9d8690dd-e552-4fc8-aa3f-fd14fb03e77b Motor 297ca871-3cb8-444d-9086-a5106a912c47 Accessory bf2490bd-b691-4f43-9d66-6e708041de18
+апр. 29, 2024 1:20:23 PM fabric.Dealer run
+INFO: Number 54 Auto f169389b-de73-4b7e-af53-f0d5ae47c9fc Body 1d4c4de6-5c11-4c42-9945-b5a3c5a135a1 Motor f7218413-1b70-4da2-b1ee-892dbee40382 Accessory eadfe0aa-b784-442d-aab7-168560f9c17b
+апр. 29, 2024 1:20:23 PM fabric.Dealer run
+INFO: Number 55 Auto d505e1bd-ef5e-4bd8-99eb-a6329b72d159 Body 40fabdb9-1b8d-4df4-9f3e-7bd515a9ff13 Motor d14c40df-6546-40d7-a226-45d559e96d61 Accessory f85736e6-e60f-4fd9-9160-6291047a8c74
+апр. 29, 2024 1:20:24 PM fabric.Dealer run
+INFO: Number 56 Auto 0a085189-b9f1-4c2b-8a86-0d7eebb6f884 Body 5662a706-a19a-4b33-b808-e9b2aff30dd4 Motor 0d17d2f9-55de-4381-8f2c-8241136fc34c Accessory fb0568e5-576b-4d15-be47-dfba4c25b96d
+апр. 29, 2024 1:20:24 PM fabric.Dealer run
+INFO: Number 57 Auto bb443e77-9330-4280-9fab-5b0e90f080e1 Body d7171d3c-48a1-42d0-8a94-e7ccf61068e0 Motor 7f183698-7200-4ad4-9a7d-713722e57942 Accessory 0d704a5c-1637-4625-9f68-928ceb90909a
+апр. 29, 2024 1:20:24 PM fabric.Dealer run
+INFO: Number 58 Auto e3a0c4ac-6b39-4cf3-9341-7993700db6cd Body 3864b2ac-8541-4ef8-9314-46c8f7e51c86 Motor c6fb02c8-1a6e-443f-8a31-f7789aca2ab0 Accessory f93ada48-7ee3-4eb4-ba27-eb7919f8a72c
+апр. 29, 2024 1:20:24 PM fabric.Dealer run
+INFO: Number 59 Auto 51bb205a-4e9f-4dc4-bc43-a19486fce049 Body 8f88e8df-da91-4084-a500-5b440638759f Motor c6d379a0-edb9-4a14-bc42-a4db6cb027b1 Accessory 8d163233-cfc3-493d-933b-a695b344467e
+апр. 29, 2024 1:20:24 PM fabric.Dealer run
+INFO: Number 60 Auto c927d58a-f95a-492c-838f-e05b3c509b8e Body 2fd703f9-0f19-467d-a078-2823e76db9c7 Motor 6d998003-66af-4229-8467-16cc83cf4bcc Accessory 2ae23094-ded9-4e72-8898-1f27f6a9ce50
+апр. 29, 2024 1:20:25 PM fabric.Dealer run
+INFO: Number 61 Auto 82b35317-bf80-4109-b466-6e10f6ffe52a Body 3a2d2663-9fa2-4894-a1f6-111600d1db41 Motor 0033ae90-3772-4f3d-a7db-4290cb21190a Accessory 8bd5a9ec-21f2-46a4-a2b3-153f96459c5c
+апр. 29, 2024 1:20:25 PM fabric.Dealer run
+INFO: Number 62 Auto 20a52bf4-4605-4acd-b1b8-a1af701a1bf8 Body 8f1b45ad-c130-4c49-a2da-13e71642d46f Motor 8b463465-3cc0-427d-a406-50ba1240304a Accessory 5b466e32-4311-4172-8027-bbfd3cb68ef7
+апр. 29, 2024 1:20:25 PM fabric.Dealer run
+INFO: Number 63 Auto aa661157-139d-4446-a702-3a7dff3d9503 Body 4feb9e9a-c446-467c-a56c-1dc12ac6bf0e Motor 18746867-5c44-4960-ac94-e6f11a64f520 Accessory b0cc054f-8010-4efe-8f69-48f5cb7339b4
+апр. 29, 2024 1:20:25 PM fabric.Dealer run
+INFO: Number 63 Auto 0336c924-3bf8-4d79-b952-e3f5bd881d17 Body d3802640-96ba-4e12-b6f3-49e3838e072d Motor 535f220b-1b7e-470e-87f5-51636403e72a Accessory 734cdc3b-f33f-437e-843d-8308cab3787d
+апр. 29, 2024 1:20:25 PM fabric.Dealer run
+INFO: Number 64 Auto dcc132fd-1d50-438c-b609-254431584398 Body 9c267bab-78ff-4003-9a4c-5739560b1fc0 Motor 855d77c3-90b1-421b-bd98-f86196d3a579 Accessory 831c7663-f82a-4f7a-be97-93c23f44aa2c
+апр. 29, 2024 1:20:26 PM fabric.Dealer run
+INFO: Number 65 Auto 466ffe37-83eb-405c-9546-658b22c15301 Body 1987a2f2-d620-4287-8391-de0d365a5e99 Motor d9a11dec-7787-46c6-833b-b3fbd0c86bba Accessory f1c86ebe-e317-40f8-b9f3-5f0370f42b7c
+апр. 29, 2024 1:20:26 PM fabric.Dealer run
+INFO: Number 66 Auto 67e469d4-911f-4094-94a8-de7cd585678c Body 778bbbfb-bf27-4cee-809b-970064463704 Motor fcbfaf2f-4ab8-477a-9674-adff79c1274f Accessory b6db7b3a-d6e0-4db6-b312-c1f8672ec2a4

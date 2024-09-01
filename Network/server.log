@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-09-01T10:23:35.855549100Z</date>
+  <millis>1725186215855</millis>
+  <nanos>549100</nanos>
+  <sequence>2</sequence>
+  <logger>network.second.Server</logger>
+  <level>WARNING</level>
+  <class>network.second.Server$ClientHandler$MessageSender</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>sleep interrupted</message>
+</record>
+<record>
+  <date>2024-09-01T10:23:35.945974800Z</date>
+  <millis>1725186215945</millis>
+  <nanos>974800</nanos>
+  <sequence>3</sequence>
+  <logger>network.second.Server</logger>
+  <level>WARNING</level>
+  <class>network.second.Server$ClientHandler$MessageReader</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Socket closed</message>
+</record>
+</log>

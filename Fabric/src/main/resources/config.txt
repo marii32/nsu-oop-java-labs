@@ -1,0 +1,15 @@
+StorageBodySize=100
+StorageEngineSize=100
+StorageMotorSize=100
+StorageAccessorySize=100
+StorageAutoSize=100
+AccessorySuppliers=5
+EngineSuppliers=3
+BodySuppliers=4
+Workers=5
+Dealers=5
+accessoryInterval=1000
+bodyInterval=1000
+engineInterval=1000
+dealerInterval=1000
+LogSale=true
